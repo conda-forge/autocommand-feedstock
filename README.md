@@ -9,14 +9,11 @@ Package license: LGPL-3.0-only
 
 Summary: A library to automatically generate and run simple argparse parsers from function signatures.
 
-Development: https://github.com/simplejson/simplejson
-
 Documentation: https://github.com/Lucretiel/autocommand
 
 Autocommand turns a function into a command-line program. It converts
 the function's parameter signature into command-line arguments, and
 automatically runs the function if the module was called as ``__main__``.
-
 
 Current build status
 ====================
